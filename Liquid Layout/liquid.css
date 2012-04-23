@@ -1,1 +1,8 @@
-body {background-color:#000000;}
+body {background-color: blue;}
+
+.alldivs {background-color:#ffffff; opacity:0.7;  min-height: 600px;}
+
+p {color: #000000;}
+
+#outerdiv{width: 800 px}
+#maindiv{margin-left: 5%; width: 90%;}
